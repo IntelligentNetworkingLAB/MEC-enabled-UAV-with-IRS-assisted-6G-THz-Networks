@@ -1,0 +1,1 @@
+# MEC-enabled-UAV-with-IRS-assisted-6G-THz-Networks
