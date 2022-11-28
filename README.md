@@ -7,6 +7,12 @@ Terrahertz (THz) communication is likely to enable ultra-fast data speeds in six
 
 ![image info](./sysmodel.png)
 
+## Version
+- Unity 2020.3.25f1
+- ML-agents Release 17
+- python 3.8
+- Pytorch 1.8.0
+
 ## License
 Copyright (c) 2022 Networking Intelligence
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
